@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Zap Imóveis</string>
+    <string name="ops_title">Ops</string>
+    <string name="error_message">Serviço indisponível.\nTente novamente mais tarde.</string>
+    <string name="try_again">Tentar novamente</string>
+    <string name="cancel">Cancelar</string>
+    <string name="contact_name_hint">Nome</string>
+    <string name="contact_email_hint">E-mail</string>
+    <string name="contact_ddd">DDD</string>
+    <string name="contact_phone">Telefone</string>
+    <string name="submit">Enviar</string>
+    <string name="contact_error_name">Nome inválido</string>
+    <string name="contact_error_email">E-mail inválido</string>
+    <string name="contact_error_ddd">DDD inválido</string>
+    <string name="contact_error_phone">Telefone inválido</string>
+    <string name="success">Sucesso</string>
+    <string name="contact_success">Dados enviado com sucesso!</string>
+    <string name="ok">OK</string>
+    <string name="value_price">valor_da_venda</string>
+    <string name="description">Descrição</string>
+
+    <plurals name="rooms">
+        <item quantity="one">%1$d dorm</item>
+        <item quantity="other">%1$d dorms</item>
+    </plurals>
+    <plurals name="suites">
+        <item quantity="one">%1$d suite</item>
+        <item quantity="other">%1$d suites</item>
+    </plurals>
+</resources>
